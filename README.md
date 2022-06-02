@@ -9,7 +9,7 @@ In this assignment, we built a webpage around UFOs sighting that would allow peo
 In order to conduct your search you will want to visit the website. On the website, along the left side, you will see a handful of different filter options available. Once you have typed in the filter that you are looking for you will see the table on the right change to match the item that you typed in. 
 
 
-![ScreenShot]([https://github.com/Cayswartz/PyBer_Analysis/blob/e2874c6c1eb2a9da2ae84993f3777e2385f5327d/Analysis/PyBer_fare_summary.png](https://github.com/Cayswartz/UFOs/blob/a64ffd234aee2c6b1ebd13bce79f9406df0bac4c/Screen%20Shot%202022-06-01%20at%207.54.40%20PM.png))
+![ScreenShot]((https://github.com/Cayswartz/UFOs/blob/a64ffd234aee2c6b1ebd13bce79f9406df0bac4c/Screen%20Shot%202022-06-01%20at%207.54.40%20PM.png))
 
 
 ## Summary
